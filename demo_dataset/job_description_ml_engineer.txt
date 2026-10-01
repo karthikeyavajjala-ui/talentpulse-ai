@@ -1,0 +1,20 @@
+Job Title: Senior Machine Learning Engineer
+Department: AI & Data Science
+Location: Bengaluru, India (Hybrid)
+Experience Requirement: 4+ years of industry experience
+Education Requirement: B.Tech / M.Tech / M.S. in Computer Science, Data Science, or AI
+
+About the Role:
+We are seeking a Senior Machine Learning Engineer to architect, train, and deploy production-grade predictive models, NLP pipelines, and real-time inference services. You will collaborate with product, data engineering, and platform teams to turn large-scale enterprise datasets into high-impact AI products.
+
+Key Responsibilities & Mandatory Requirements:
+• 4+ years of professional experience building and deploying Machine Learning models in production environments.
+• Strong programming proficiency in Python, SQL, and data manipulation using Pandas and NumPy.
+• Hands-on expertise with Scikit-Learn and TensorFlow for supervised/unsupervised predictive modeling and deep learning.
+• Experience building low-latency RESTful model serving APIs using FastAPI and containerizing applications with Docker.
+• Strong foundation in feature engineering, statistical evaluation, A/B testing, and relational databases (PostgreSQL / SQL).
+
+Preferred Qualifications (Nice to Have):
+• Experience with Natural Language Processing (NLP), spaCy, Hugging Face Transformers, or LLMs & GenAI.
+• Familiarity with PyTorch, MLOps pipelines (MLflow), AWS cloud services, and Kubernetes orchestration.
+• Master's degree (M.Tech / M.S.) or Ph.D. in Computer Science, Artificial Intelligence, or Mathematics.

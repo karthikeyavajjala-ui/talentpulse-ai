@@ -1,0 +1,28 @@
+VIKRAM DESAI
+Email: vikram.desai@analytics.in | Phone: +91 98201 77665 | Location: Mumbai, India
+Current Role: Data Scientist
+
+SUMMARY
+Analytical Data Scientist with 4 years of experience in statistical modeling, customer analytics, and machine learning. Proficient in Python, SQL, Pandas, NumPy, Scikit-Learn, XGBoost, Tableau, and A/B Testing.
+
+WORK EXPERIENCE
+Data Scientist | RetailIQ Analytics | May 2022 - Present
+• Built predictive customer segmentation and propensity models using Python, Scikit-Learn, XGBoost, and Pandas.
+• Authored complex SQL queries and ETL pipelines in PostgreSQL and Snowflake to support executive analytics.
+• Designed A/B testing frameworks and statistical forecasting models using Time Series techniques.
+
+Junior Data Scientist | FinMetrics Corp | Jun 2020 - Apr 2022
+• Performed exploratory data analysis, feature engineering, and regression modeling with Python, Pandas, NumPy, and Matplotlib.
+
+EDUCATION
+M.Sc. in Statistics and Data Science | IIT Kanpur | 2020 | CGPA: 8.6/10
+B.Sc. in Mathematics | Mumbai University | 2018
+
+SKILLS
+Python, R, SQL, PostgreSQL, Snowflake, Machine Learning, Pandas, NumPy, Scikit-Learn, XGBoost, Time Series, A/B Testing, Tableau, Matplotlib
+
+CERTIFICATIONS
+• SnowPro Core Certification
+
+PROJECTS
+• Demand Forecasting Engine: Built ARIMA and XGBoost forecasting models in Python and Pandas across 1,200 retail SKUs.

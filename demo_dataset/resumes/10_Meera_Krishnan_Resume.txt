@@ -1,0 +1,23 @@
+MEERA KRISHNAN
+Email: meera.krishnan@webstudio.in | Phone: +91 98401 55667 | Location: Chennai, India
+Current Role: Senior Frontend & Full-Stack Engineer
+
+SUMMARY
+Creative Frontend and Full-Stack Web Developer with 3.5 years of experience building responsive SaaS applications using React, TypeScript, JavaScript, Tailwind CSS, Node.js, and GraphQL.
+
+WORK EXPERIENCE
+Senior Frontend Engineer | PixelCraft SaaS | Apr 2023 - Present
+• Built enterprise analytics dashboards and design systems using React, TypeScript, and Tailwind CSS.
+• Integrated REST APIs and GraphQL endpoints with Node.js and PostgreSQL backends.
+
+Software Developer | Webify Digital | Jul 2021 - Mar 2023
+• Developed responsive customer portals using React, JavaScript, HTML5, and CSS3.
+
+EDUCATION
+B.Tech in Information Technology | SRM Institute of Science and Technology, Chennai | 2021
+
+SKILLS
+React, TypeScript, JavaScript, Tailwind CSS, Node.js, GraphQL, REST APIs, SQL, PostgreSQL, Git
+
+PROJECTS
+• Enterprise Design System: Created reusable React + Tailwind CSS component library with 98% accessibility score.
