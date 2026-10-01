@@ -10,7 +10,7 @@ import {
 } from './types';
 
 const TOKEN_KEY = 'tp_auth_token';
-
+const API_BASE_URL = import.meta.env.VITE_API_URL || '';
 export function getAuthToken(): string | null {
   return localStorage.getItem(TOKEN_KEY);
 }
@@ -35,7 +35,7 @@ async function apiFetch<T>(url: string, options: RequestInit = {}): Promise<T> {
     headers['Content-Type'] = 'application/json';
   }
 
-  const res = await fetch(url, {
+  const res = await fetch(`${API_BASE_URL}${url}`, {
     ...options,
     headers,
   });
